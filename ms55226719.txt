@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "vusi.is-a.dev",
+  "Id": "9bfd96e7-899c-4011-9f8e-19b58d98c292"
+}
